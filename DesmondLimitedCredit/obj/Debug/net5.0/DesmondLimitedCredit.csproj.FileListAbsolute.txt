@@ -1,0 +1,16 @@
+C:\CodebitsAcademy\LabTasks\LabTask14\DesmondLimitedCredit\obj\Debug\net5.0\DesmondLimitedCredit.csprojAssemblyReference.cache
+C:\CodebitsAcademy\LabTasks\LabTask14\DesmondLimitedCredit\obj\Debug\net5.0\DesmondLimitedCredit.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodebitsAcademy\LabTasks\LabTask14\DesmondLimitedCredit\obj\Debug\net5.0\DesmondLimitedCredit.AssemblyInfoInputs.cache
+C:\CodebitsAcademy\LabTasks\LabTask14\DesmondLimitedCredit\obj\Debug\net5.0\DesmondLimitedCredit.AssemblyInfo.cs
+C:\CodebitsAcademy\LabTasks\LabTask14\DesmondLimitedCredit\obj\Debug\net5.0\DesmondLimitedCredit.csproj.CoreCompileInputs.cache
+C:\CodebitsAcademy\LabTasks\LabTask14\DesmondLimitedCredit\bin\Debug\net5.0\DesmondLimitedCredit.exe
+C:\CodebitsAcademy\LabTasks\LabTask14\DesmondLimitedCredit\bin\Debug\net5.0\DesmondLimitedCredit.deps.json
+C:\CodebitsAcademy\LabTasks\LabTask14\DesmondLimitedCredit\bin\Debug\net5.0\DesmondLimitedCredit.runtimeconfig.json
+C:\CodebitsAcademy\LabTasks\LabTask14\DesmondLimitedCredit\bin\Debug\net5.0\DesmondLimitedCredit.runtimeconfig.dev.json
+C:\CodebitsAcademy\LabTasks\LabTask14\DesmondLimitedCredit\bin\Debug\net5.0\DesmondLimitedCredit.dll
+C:\CodebitsAcademy\LabTasks\LabTask14\DesmondLimitedCredit\bin\Debug\net5.0\ref\DesmondLimitedCredit.dll
+C:\CodebitsAcademy\LabTasks\LabTask14\DesmondLimitedCredit\bin\Debug\net5.0\DesmondLimitedCredit.pdb
+C:\CodebitsAcademy\LabTasks\LabTask14\DesmondLimitedCredit\obj\Debug\net5.0\DesmondLimitedCredit.dll
+C:\CodebitsAcademy\LabTasks\LabTask14\DesmondLimitedCredit\obj\Debug\net5.0\ref\DesmondLimitedCredit.dll
+C:\CodebitsAcademy\LabTasks\LabTask14\DesmondLimitedCredit\obj\Debug\net5.0\DesmondLimitedCredit.pdb
+C:\CodebitsAcademy\LabTasks\LabTask14\DesmondLimitedCredit\obj\Debug\net5.0\DesmondLimitedCredit.genruntimeconfig.cache
